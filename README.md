@@ -1,2 +1,4 @@
 # MBTA-Charlie-APP-Product-Planning
-Product planning for MBTA Mobile App: MRD and PRD
+### Product planning for MBTA Charlie Mobile App: MRD and PRD
+1. [Market Requirements Document for MBTA Charlie App](PRD_MBTA%20App.pdf)
+2. [Product Requirements Document for MBTA Charlie App](PRD_MBTA%20App.pdf)
